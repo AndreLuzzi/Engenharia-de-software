@@ -1,9 +1,9 @@
 # Sistema Bancário em Java
 
 Equipe:
-Andre Cappellesso Luzzi
-Henrique Manoel Gil Moura Moraes
-Leonardo Dambrosio
+Andre Cappellesso Luzzi,
+Henrique Manoel Gil Moura Moraes,
+Leonardo Dambrosio.
 
 Este projeto é uma aplicação bancária simples desenvolvida em Java. Ele contém as classes `Usuario`, `Conta`, `GerenciadorUsuarios`, `Relatorio` e `SistemaBanco`, que simulam funcionalidades básicas de um sistema bancário.
 
